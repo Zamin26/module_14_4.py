@@ -11,7 +11,7 @@ def initiate_db():
     title TEXT NOT NULL,
     description TEXT NOT NULL,
     price INTEGER NOT NULL
-    )
+    );
     ''')
 
 
